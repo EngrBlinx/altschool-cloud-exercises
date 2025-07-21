@@ -2,11 +2,11 @@
 This `adduser` command is the perl version of useradd the is interactive and user-friendly
 ![adduser](LinuxProject/adduser.png)
 
-##2. `date` - shows date
+## 2. `date` - shows date
 This is the command that is used the show the current date and time
 ![date](data.png)
 
-##3. `ping` - Checks sever connectivity
+## 3. `ping` - Checks sever connectivity
 
 The `ping` command is used to check connectivity to the server
 ![ping command](ping.png)
