@@ -19,7 +19,7 @@ The `uname` command prints information about the Linux system
 The `whoami` command prints information about the currently logged-in user
 ![whoami](whoami.PNG)
 
-## 6. history` - Previous commands
+## 6. `history` - Previous commands
 This `history` command shows the previous commands the current user ran
 ![history](history.PNG)
 
