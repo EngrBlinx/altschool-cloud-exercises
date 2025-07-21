@@ -1,12 +1,12 @@
 ## 1. `adduser`- This command adds a user
-This `adduser` command is the perl version of useradd the is interactive and user-friendly
+This `adduser` command is the Perl version of useradd which is interactive and user-friendly
 ![adduser](LinuxProject/adduser.png)
 
 ## 2. `date` - shows date
 This is the command that is used the show the current date and time
 ![date](data.png)
 
-## 3. `ping` - Checks sever connectivity
+## 3. `ping` - Checks server connectivity
 
 The `ping` command is used to check connectivity to the server
 ![ping command](ping.png)
@@ -33,7 +33,7 @@ The `last` command is used to show last login on the system
 
 ## 9. `last reboot` - Reboot history
 The `last reboot` command shows sytem reboot history
-![last reboot](last reboot)
+![last reboot](lastreboot)
 
 ## 10. `ip a` - IP interface
 The `ip a` command show the network interfaces of the machine
