@@ -1,6 +1,6 @@
 ## 1. `adduser`- This command adds a user
 This `adduser` command is the Perl version of useradd, which is interactive and user-friendly
-![adduser](adduser.png)
+![adduser](adduser.PNG)
 
 ## 2. `date` - shows date
 This is the command that is used to show the current date and time
