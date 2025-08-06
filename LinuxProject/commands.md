@@ -4,7 +4,7 @@ This `adduser` command is the Perl version of useradd, which is interactive and 
 
 ## 2. `date` - shows date
 This is the command that is used to show the current date and time
-![date](data.PNG)
+![date](date.PNG)
 
 ## 3. `ping` - Checks server connectivity
 
